@@ -11,6 +11,7 @@
 - Data Structures & Algorithms  
 - Git & GitHub  
 - HTML, CSS, JavaScript(beginner)
+- Power Bi
 
 ---
 
