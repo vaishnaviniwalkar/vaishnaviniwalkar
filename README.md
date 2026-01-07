@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Vaishnavi  
 
-<!--
-**vaishnaviniwalkar/vaishnaviniwalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BTech Computer Science & Engineering student  
+💻 Currently learning Data Structures & Algorithms in Java  
+🌱 Exploring Web Development and AI integration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- Java  
+- Data Structures & Algorithms  
+- Git & GitHub  
+- HTML, CSS, JavaScript(beginner)
+
+---
+
+### 📌 What I'm Doing Currently
+- Practicing DSA problems daily  
+- Strengthening Java fundamentals  
+- Preparing for interships & placements  
+
+---
+
+### 🎯 Goals
+- Strong problem-solving skills  
+- Internship-ready by 3rd year  
+- Build real-world projects  
+
+---
+
+✨ *Learning step by step and improving every day.*
