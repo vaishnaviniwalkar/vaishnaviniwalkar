@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Vaishnavi  
 
-🎓 2nd Year BTech Computer Science & Engineering student  
+🎓 3rd Year BTech Computer Science & Engineering student  
 💻 Currently learning Data Structures & Algorithms in Java  
 🌱 Exploring Web Development and AI integration  
 
@@ -12,6 +12,8 @@
 - Git & GitHub  
 - HTML, CSS, JavaScript(beginner)
 - Power Bi
+- MySQL
+- Python
 
 ---
 
